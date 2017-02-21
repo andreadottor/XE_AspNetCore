@@ -1,4 +1,5 @@
 # XE_AspNetCore
+Video della sessione: https://youtu.be/JiTmq5wCRqY
 
 ## Evento XE Community Meeting - ASP.NET Core vs Node JS del 17-02-2017
 Codice della parte riguardante ASP.NET Core.
